@@ -1,3 +1,6 @@
+<img src="/mcpwm_04.png" width="600" alt="Split-phase a 20 kHz">
+<img src="/mcpwm_05.png" width="600" alt="Split-phase a 20 kHz">
+
 # Bitácora — Calibración de bases de tiempo y blindaje de la conmutación
 
 > Jornada de depuración del inversor SPWM de puente H (ESP32 / MCPWM).
